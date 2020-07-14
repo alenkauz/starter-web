@@ -10,4 +10,4 @@ This is example to show dufferent parts of Git repository
 
 Sample website with plenty of files for demos
 
-## How to
+## How to test
