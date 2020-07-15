@@ -18,9 +18,12 @@
 			
 			Addinf new lines
 			
-			again changes
+<<<<<<< HEAD
 			
 			conflicting changes 
+=======
+			again changes
+>>>>>>> again new
 		</p>
 	</main>
 	<footer class="container">
